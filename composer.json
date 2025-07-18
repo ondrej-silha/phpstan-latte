@@ -1,5 +1,5 @@
 {
-    "name": "efabrica/phpstan-latte",
+    "name": "ondrej-silha/phpstan-latte",
     "license": ["MIT"],
     "keywords": [
         "static analysis"
